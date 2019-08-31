@@ -1,0 +1,30 @@
+﻿{
+	"version": 1567209632,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/karakter-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/balon-sheet0.png",
+		"images/particles.png",
+		"images/buruk-sheet0.png",
+		"images/baik-sheet0.png",
+		"images/baik-sheet1.png",
+		"images/baik-sheet2.png",
+		"images/tiledbackground.png",
+		"images/sprite5-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
